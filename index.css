@@ -1,0 +1,62 @@
+body {
+    margin: 0;
+    background-color:#1F2937; 
+}
+
+#generate {
+    color:#FFFFFF;
+    margin-top:80px;
+    margin-left:40px;
+    margin-bottom:0px;
+}
+
+#random {
+   color:#4ADF86; 
+   margin-left:40px;
+   margin-top:0px;
+   margin-bottom:10px;
+}
+
+#never {
+   color:#D5D4D8; 
+   margin-left:40px;
+   margin-top:2px;
+}
+
+#passwords {
+  background-color:#10B981;
+  color:#FFFFFF; 
+  border-radius: 6px; 
+  Padding:9px 17px 9px 15px;
+  margin-top:25px;
+  margin-left:40px;
+}
+
+hr{
+   border:solid 1px #2F3E53; 
+   margin-top:50px;
+   margin-left:50px;
+   margin-right:50px;
+}
+
+#passwordone {
+ background-color:#273549;
+ width: 200px;
+ height: 30px;
+ margin-top: 50px;
+ border-radius: 6px;
+ display:flex;
+ margin-left:40px;
+ display: inline-block;
+}  
+#passwordtwo {
+ background-color:#273549;
+ width: 200px;
+ height: 30px;
+ margin-top: 20px;
+ border-radius: 6px;
+ margin-left:40px;
+ display: inline-block;
+}
+
+
